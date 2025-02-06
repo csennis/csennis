@@ -21,7 +21,6 @@ Welcome to my GitHub! I’m **Christina Ennis**, an immunologist turned computat
 ## 💬 Let’s Connect!
 I’m always open to collaborations and discussions. Feel free to reach out via:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ennisc/)
-- 🐦 [Twitter](https://x.com/cs_ennis)
 - 📧 [Email](mailto:ennisc@bu.edu)
 
 <!--
