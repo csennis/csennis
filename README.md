@@ -29,11 +29,11 @@ Cancer immunology · TME heterogeneity · Organoid modeling · Tumor metabolism 
 </div>
 
 ## 🚀 Featured Projects
-| 🧪 Project | 🧾 Description | 🧰 Tech Stack |
-|-----------|----------------|--------------|
-| [**Organoid Modeling Toolkit**](https://github.com/montilab/BrCaExoPDO) | Tools for analyzing 3D organoids to model exosome-mediated immune interactions in breast cancer. | `R`, `Python`, `scVI`, confocal imaging |
-| [**scRNA-seq Pipeline**](https://github.com/robertfisher002/CoREST_Splicing/tree/main/Mouse%20%26%20Immunotherapy) | End-to-end workflow for scRNA-seq QC, integration, immune profiling, and ML-based clustering. | `R`, `Seurat`, `SingleR` |
-| [**Spatial GSEA in Giotto**](https://github.com/drieslab/Giotto) | Custom spatial pathway enrichment functions for immune microenvironment modeling. | `R`, `Giotto`, `GSEA`, `Python` |
+| 🧪 Project | 🧾 Description | 🧰 Tech Stack | 👤 Role |
+|-----------|----------------|--------------|--------|
+| [**Organoid Modeling Toolkit**](https://github.com/montilab/BrCaExoPDO) | Tools for analyzing 3D organoids to model exosome-mediated immune interactions in breast cancer. | `R`, `Python`, `scVI`, confocal imaging | **Thesis lead** – full-stack development, including **data generation** and **analysis** |
+| [**Immunotherapy Response Pipeline**](https://github.com/robertfisher002/CoREST_Splicing/tree/main/Mouse%20%26%20Immunotherapy) | End-to-end workflow for scRNA-seq QC, integration, immune profiling, and ML-based clustering. | `R`, `Seurat`, `SingleR` | **Lead computational biologist** – designed and executed **scRNA-seq analysis** |
+| [**Spatial GSEA in Giotto**](https://github.com/drieslab/Giotto) | Custom spatial pathway enrichment functions for immune microenvironment modeling. | `R`, `Giotto`, `GSEA`, `Python` | **Contributor** – developed **spatial enrichment** features in a **collaborative lab project** |
   
 ## 📚 Select Publications
 - [Plasma exosomes from individuals with type 2 diabetes drive breast cancer aggression in patient-derived organoids](https://www.biorxiv.org/content/10.1101/2024.09.13.612950v1.abstract)
